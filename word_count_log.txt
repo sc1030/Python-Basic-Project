@@ -1,0 +1,6 @@
+Sentence: Shyam Chouhan
+Total Words: 2, Unique Words: 2, Average Length: 6.00
+
+Sentence: This version makes the code bulletproof, user-friendly, and feature-rich—practically unbeatable!
+Total Words: 13, Unique Words: 13, Average Length: 6.23
+

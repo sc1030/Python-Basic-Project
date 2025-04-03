@@ -1,0 +1,2 @@
+Alarm triggered after 3 seconds.
+Alarm triggered after 1 seconds.
